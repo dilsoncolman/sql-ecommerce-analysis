@@ -2,7 +2,7 @@
 
 This project analyzes an e-commerce dataset to uncover key business insights using SQL and Python.
 
-![Monthly Revenue](monthly_revenue_trend.png)
+![Monthly Revenue](outputs/monthly_revenue_trend.png)
 
 ---
 
