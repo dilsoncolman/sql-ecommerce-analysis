@@ -74,7 +74,7 @@ The dataset was analyzed using Python to:
 ---
 
 ## Project Structure
-´´´ 
+``` 
 sql-ecommerce-analysis
 │
 ├── online_rental.csv
@@ -82,7 +82,7 @@ sql-ecommerce-analysis
 ├── analysis_queries.sql
 ├── monthly_revenue_trend.png
 └── README.md
-´´´
+```
 
 
 ---
