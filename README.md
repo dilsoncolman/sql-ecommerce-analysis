@@ -2,7 +2,14 @@
 
 This project analyzes an e-commerce dataset to uncover key business insights using SQL and Python.
 
-![Monthly Revenue](outputs/monthly_revenue_trend.png)
+---
+
+## Executive Summary
+
+- The United Kingdom is the dominant revenue market  
+- A small set of products drives a large share of total revenue  
+- Sales show strong seasonality, with peaks in Q4  
+- A small number of customers generate a significant portion of revenue  
 
 ---
 
@@ -40,12 +47,19 @@ The goal of this project is to explore transaction-level data and answer importa
 
 ---
 
-## Key Insights
+## Visualizations
 
-- The United Kingdom generates the majority of revenue, reflecting the company's main market  
-- Decorative and seasonal products dominate the top-selling items  
-- Revenue shows strong monthly variation, suggesting seasonal demand patterns  
-- A small number of customers generate a large portion of total revenue  
+### Revenue by Country
+![Revenue by Country](outputs/revenue_by_country.png)
+
+### Top Products
+![Top Products](outputs/top_products.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue](outputs/monthly_revenue_trend.png)
+
+### Top Customers
+![Top Customers](outputs/top_customers.png)
 
 ---
 
@@ -69,7 +83,16 @@ The dataset was analyzed using Python to:
 
 - clean and prepare the data  
 - compute revenue metrics  
-- visualize monthly revenue trends  
+- visualize business insights  
+
+---
+
+## Business Recommendations
+
+- Focus marketing efforts on high-revenue countries  
+- Optimize inventory for top-performing products  
+- Prepare for seasonal demand spikes  
+- Develop retention strategies for high-value customers    
 
 ---
 
